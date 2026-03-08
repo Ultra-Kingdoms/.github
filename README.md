@@ -1,2 +1,2 @@
 # .github
-About Unreal Kingdoms
+About Ultra Kingdoms
